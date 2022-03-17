@@ -387,3 +387,8 @@ Hides the Dropdown.
 | Name        | Type    | Default | Description                      |
 |:------------|:--------|:--------|:---------------------------------|
 | `delay`     | Boolean | true    | Delay hiding the Dropdown.       |
+
+#### CSS Options
+
+Add class .uk-dropdown-close to dropdown container or to item to hide dropdown when user click on item.
+
